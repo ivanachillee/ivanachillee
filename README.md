@@ -1,4 +1,4 @@
-### Hey there 👋 I'm Ivan, a Data Scientist based in Dublin.
+<h1>Hey there 👋  I'm Ivan, a <span color='2997ff'>Data Scientist</span> based in Dublin.</h1>
 
 - 🔭 I’m currently working on a social perception project that aims to model human thoughts and emotions
 
