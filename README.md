@@ -1,4 +1,4 @@
-<h1>Hey there 👋 ‏‏‎ ‎I'm Ivan, a <span color='2997ff'>Data Scientist</span> based in Dublin.</h1>
+<h1>Hey there 👋 ‏‏‎ ‎I'm Ivan, a <span color='2997ff'>Data Scientist</span> based in Dublin<sup>*</sup>.</h1>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
@@ -11,8 +11,10 @@ while current.thing != perfect:
   MakeItGreater(current.thing)
 ```
 
+<br>
+<small><i>(*) Soon in mid-late 2021.</i></small>
 
-<br><i>"Simplicity is the ultimate sophistication." Leonardo da Vinci</i>
+
 
 <!--
 **ivanachillee/ivanachillee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
