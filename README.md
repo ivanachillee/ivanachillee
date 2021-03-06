@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋 I'm Ivan, a Data Scientist based in Dublin.
+
+- 🔭 I’m currently working on a social perception project that aims to model human thoughts and emotions
 
 <!--
 **ivanachillee/ivanachillee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
