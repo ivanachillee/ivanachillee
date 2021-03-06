@@ -1,9 +1,15 @@
 <h1>Hey there 👋 ‏‏‎ ‎I'm Ivan, a <span color='2997ff'>Data Scientist</span> based in Dublin.</h1>
 
-Specialized in behavioral consumer dynamics insight discovering and ML modelling that enables powerful and quick enviroment innovation. Personally interested in small/medium startups.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 <br>
 
 Currently working on <b>[Social Perception: Shaping the spectrum of human thought.](https://google.com/)</b> as an open research project.</b>
+
+```python
+while current.thing != perfect:
+  MakeItGreater(current.thing)
+```
 
 
 <br><i>"Simplicity is the ultimate sophistication." Leonardo da Vinci</i>
