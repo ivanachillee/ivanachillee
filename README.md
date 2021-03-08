@@ -7,8 +7,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Currently working on <b>[Social Perception: Shaping the spectrum of human thought.](https://google.com/)</b> as an open research project.</b>
 
 ```python
-while thing.status != 'greatest':
-  MakeItGreater(thing)
+while thing.Status != 'Greatest':
+  thing.MakeItGreater()
 ```
 
 <br>
