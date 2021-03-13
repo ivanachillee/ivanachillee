@@ -1,6 +1,9 @@
-<h1>Hey there 👋 ‏‏‎ ‎I'm Ivan, a <span color='2997ff'>Data Scientist</span> based in Dublin<sup>*</sup>.</h1>
+<h1>Hey there 👋</h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Welcome to my GitHub! I’m Ivan, a data scientist and software developer based in Dublin<sup>(*)</sup>. I am currently thinking new innovative ideas that allow me to intersect all of my different types of knowledge to create astounding projects, so if you see it a little empty, that’s why!<br>
+
+⚡ I’m currently working on [Social Perception: Shaping the spectrum of human thought.](https://github.com/ivanachillee/social-perception)<br>
+💬 Ask me about... everything!
 
 <br>
 
