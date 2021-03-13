@@ -4,8 +4,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br>
 
-Currently working on <b>[Social Perception: Shaping the spectrum of human thought.](https://google.com/)</b> as an open research project.</b>
-
 ```python
 while thing.Status != 'Greatest':
   thing.MakeItGreater()
