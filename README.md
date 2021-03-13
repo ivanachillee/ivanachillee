@@ -1,4 +1,4 @@
-<h1>Hey there 👋 ‏‏‎ Take a seat.</h1>
+<h1>Hey there 👋 ‏‏‎Take a seat.</h1>
 
 Welcome to my GitHub! I’m Ivan, a data scientist and software developer based in Dublin<sup>(*)</sup>. I am currently thinking new innovative ideas that allow me to intersect all of my different types of knowledge to create astounding projects, so if you see it a little empty, that’s why!<br>
 
