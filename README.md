@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m Ivan, a data scientist and software developer based in Dublin<sup>(*)</sup>. I am currently thinking new innovative ideas that allow me to intersect all of my different types of knowledge to create astounding projects, so if you see it a little empty, that’s why!<br>
 
-⚡ I’m currently working on [Social Perception: Shaping the spectrum of human thought.](https://github.com/ivanachillee/social-perception)<br>
+🔮 I’m currently working on [Seattle Senses: Talking a walk around the city, through data.](https://github.com/ivanachillee/seattle-senses)<br>
 💬 Ask me about... everything!
 
 <br>
