@@ -8,6 +8,7 @@ Welcome to my GitHub! I’m Ivan, a Data Scientist and Software Developer based 
 <br>
 
 ```python
+#The Perfection Loop
 while thing.Status != 'Greatest':
   thing.MakeItGreater()
 ```
