@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m Ivan, a Data Scientist and Software Developer based in Dublin<sup>(*)</sup>. I am currently thinking new innovative ideas that allow me to intersect all of my different types of knowledge to create astounding projects, so if you see it a little empty, that’s why!<br>
 
-🔮 I’m currently working on [Starbucks Marketing: Producing an intelligent ML-powered marketing campaign.](https://github.com/ivanachillee/starbucks-marketing)<br>
+🔮 I’m currently working on [Starbucks Marketing: The statistics of coffee transactions.](https://github.com/ivanachillee/starbucks-marketing)<br>
 💬 Ask me about... everything!
 
 <br>
